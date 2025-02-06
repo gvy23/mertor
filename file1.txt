@@ -1,2 +1,6 @@
 this is Yaswanth
+<<<<<<< HEAD
 file 1 is added
+=======
+this is added to the filr 1
+>>>>>>> 19e63c696ea68748377c3d985ed0cdccd229bd8c
